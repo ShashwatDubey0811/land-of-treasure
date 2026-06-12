@@ -87,7 +87,7 @@ land-of-treasure/
 
 ## 📅 Progress
 
-Built during **#100DaysOfCode** — Day 7
+Built during **#100DaysOfCode** — Day 3
 
 ---
 
